@@ -13,4 +13,4 @@ This is ITPM git homework.
     * Wholegrain
 * Butter
   
-  ![Alt Text](url)
+  ![Alt Text](https://image.shutterstock.com/z/stock-photo-funny-cat-with-smile-on-cardboard-sitting-near-food-1031589889.jpg)
